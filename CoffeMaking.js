@@ -43,3 +43,7 @@ console.log("tea is  ready")
 const coffeeobj=new CoffeeMachine()
 coffeeobj.makecoffee()
 coffeeobj.maketea()
+
+
+
+
